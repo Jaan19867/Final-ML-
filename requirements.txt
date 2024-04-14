@@ -1,6 +1,9 @@
 ### dependency
 streamlit
 numpy
-
+matplotlib
+pandas
+seaborn
+scipy
 ### local packages -
 -e . 
